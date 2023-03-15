@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="splash_text">С нами математика интереснее!</string>
+    <string name="get_started">Пойдем!</string>
+    <string name="next">дальше</string>
+    <string name="permission">Пожалуйста, дочитайте до конца и поставьте галочку</string>
+    <string name="text_permission">Соглашение о согласии — это подписанный документ, в котором излагается информированное согласие участника на медицинское исследование, клиническое испытание, процедуру или деятельность. Независимо от того, управляете ли вы телемедицинской практикой, медицинской клиникой или вам нужно собирать отказы от участников деятельности, вы можете использовать наши бесплатные шаблоны соглашений о согласии, чтобы мгновенно превратить отправленные формы в подписанные соглашения о согласии в формате PDF! Переходя на безбумажную документацию и беспрепятственно получая электронные подписи и информированное согласие в Интернете, вы можете одновременно упорядочивать свои записи, сокращать количество выполняемых вручную операций и оптимизировать рабочий процесс.</string>
+    <string name="agreement">Я прочитал и согласен с условиями</string>
+    <string name="login">Авторизоваться</string>
+    <string name="chooseLang">Выберите язык</string>
+    <string name="order_food_nto_your_door">Войдите в свой /n аккаунт</string>
+    <string name="sign_in">Войти</string>
+    <string name="password">Пароль</string>
+    <string name="email_address">Электронный адрес</string>
+    <string name="don_t_have_an_account_yet">У вас еще нет аккаунта?</string>
+    <string name="name">Имя</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="don_you_have_an_account_yet">У вас есть аккаунт?</string>
+    <string name="create_account">Создать аккаунт</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="create_pin_code">Создать пин-код</string>
+    <string name="save">Сохранять</string>
+    <string name="enter_pin_code">Введите пин-код</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="status">Статус</string>
+    <string name="second_one">Простые дроби состоят из числителя и знаменателя /n. Число в числителе является делителем, а число в знаменателе является знаменателем</string>
+    <string name="first_first">Операции над натуральными числами</string>
+    <string name="natural_sonlar">Натуральные числа</string>
+    <string name="first_first_second">Натуральные числа считают вещи, начиная с 1 /n
+используется. /n
+1,2,3,4,5... /n
+Натуральные числа обозначаются буквой N. /n
+Числа, оканчивающиеся на 0, 2, 4, 6, 8, называются четными. /n
+Числа, оканчивающиеся на 1, 3, 5, 7, 9, называются нечетными.</string>
+
+    <string name="search">Поиск</string>
+    <string name="choose_category">Выберите категорию</string>
+    <string name="price">Цена:</string>
+    <string name="recommended">Рекомендуется</string>
+    <string name="grams"> грамм / </string>
+    <string name="calories"> калории</string>
+    <string name="km_from_you">км от вас</string>
+    <string name="add_to_card">в корзину</string>
+    <string name="next_order">Продолжить</string>
+    <string name="go_back">Возвращаться</string>
+    <string name="total">Всего:</string>
+    <string name="extended">Расширенный</string>
+    <string name="clear">Очистить</string>
+    <string name="enter_your_credit_card_information">Введите данные вашей карты</string>
+    <string name="my_order">Мой заказ</string>
+    <string name="payment">Оплата</string>
+    <string name="card_number">Номер карты</string>
+    <string name="card_password">Пароль карты</string>
+    <string name="thank_you">Спасибо!</string>
+    <string name="your_food_is_on_the_way">Ваша еда уже в пути</string>
+    <string name="comments">Комментарии</string>
+    <string name="add_comment">Добавить комментарий</string>
+    <string name="publish">Публиковать</string>
+    <string name="other_comments">Другие комментарии</string>
+</resources>

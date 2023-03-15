@@ -1,0 +1,59 @@
+<resources>
+    <string name="splash_text">Matematika biz bilan  qiziqarliroq !</string>
+    <string name="get_started">Qani kettik !</string>
+    <string name="next">keyingisi</string>
+    <string name="permission">Iltimos ofertani oxirigacha oqing</string>
+    <string name="text_permission">Rozilik shartnomasi imzolangan hujjat bo\'lib, unda ishtirokchining tibbiy tadqiqot, klinik sinov, protsedura yoki faoliyat uchun xabardor qilingan roziligi ko\'rsatilgan. Siz teletibbiyot amaliyoti, tibbiy klinika bilan shug\'ullanasizmi yoki faoliyat ishtirokchilaridan voz kechishingiz kerak bo\'ladimi, siz bizning bepul rozilik kelishuvimiz shablonlaridan foydalanib, arizalarni bir zumda imzolangan PDF rozilik shartnomalariga aylantirishingiz mumkin! Qog\'ozsiz va muammosiz elektron imzo va on-layn rozilikni olish orqali siz bir vaqtning o\'zida yozuvlaringizni tartibga solishingiz, qo\'lda bajariladigan vazifalarni qisqartirishingiz va ish jarayonini soddalashtirishingiz mumkin.</string>
+    <string name="agreement">Shartlarni oqidim va bunga roziman</string>
+    <string name="login">Login</string>
+    <string name="order_food_nto_your_door">Akkauntga kirish</string>
+    <string name="sign_in">Kirish</string>
+    <string name="password">Parol</string>
+    <string name="email_address">Email manzili</string>
+    <string name="don_t_have_an_account_yet">Hali akkountinigiz yo`qmi?</string>
+    <string name="name">Ism</string>
+    <string name="sign_up">Ro`yxatdan o`tish</string>
+    <string name="don_you_have_an_account_yet">Akkountingiz mavjudmi?</string>
+    <string name="create_account">Akkount yaratish</string>
+    <string name="phone_number">Telefon raqam</string>
+    <string name="create_pin_code">Pin-kod yaratish</string>
+    <string name="save">Saqlash</string>
+    <string name="chooseLang">Tilni tanlang</string>
+    <string name="enter_pin_code">Pin-kodni kirtish</string>
+    <string name="welcome">Hush kelibsiz!</string>
+    <string name="search">Qidirish</string>
+    <string name="choose_category">Kategoriyani tanlash</string>
+    <string name="price">Narxi:</string>
+    <string name="recommended">Tavsiya etilgan</string>
+    <string name="grams"> gramm / </string>
+    <string name="calories"> kaloriya</string>
+    <string name="km_from_you">km uzoqlikda</string>
+    <string name="add_to_card">savatga qo‘shish</string>
+    <string name="next_order">Davom ettirish</string>
+    <string name="go_back">Ortga</string>
+    <string name="total">Jami:</string>
+    <string name="extended">Kengaytirilgan</string>
+    <string name="clear">Tozalash</string>
+    <string name="enter_your_credit_card_information">Kredit kartangiz ma`lumotlarini kiriting</string>
+    <string name="my_order">Mening buyurtmam</string>
+    <string name="payment">To`lov</string>
+    <string name="card_number">Karta raqami</string>
+    <string name="card_password">Karta paroli</string>
+    <string name="thank_you">Rahmat!</string>
+    <string name="your_food_is_on_the_way">Sizning buyurtmangiz yo`lda</string>
+    <string name="comments">Izohlar</string>
+    <string name="add_comment">Izoh qo`shing</string>
+    <string name="publish">Chop etish</string>
+    <string name="status">Holati</string>
+    <string name="second_one">Oddiy kasrlar surat va maxrajdan iborat boladi /n. Suratdagi son bolinuvchi, maxrajdagi son bolinma hisoblanadi</string>
+    <string name="first_first">Natural sonlar ustida amallar</string>
+    <string name="first_first_second">Natural sonlar 1 dan boshlanib biror narsalarni sanashda /n
+ishlatiladi.
+1,2,3,4,5... /n
+Natural sonlar – N bilan ifodalanadi. /n
+Oxiri 0, 2, 4, 6, 8 bilan tugaydigan sonlar juft sonlar deyiladi. /n
+Oxiri 1, 3, 5, 7, 9 bilan tugaydigan sonlar toq sonlar deyiladi.  </string>
+
+    <string name="natural_sonlar">Natural numbers</string>
+    <string name="other_comments">Boshqa izohlar</string>
+</resources>
